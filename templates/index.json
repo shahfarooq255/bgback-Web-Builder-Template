@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "project": "Bgback Web Builder",
+    "repo": "shahfarooq255/bgback-Web-Builder-Template",
+    "cdn_base": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/",
+    "updated": "2026-07-19",
+    "total_templates": 266,
+    "total_categories": 30
+  },
+  "categories": [
+    {
+      "key": "navbar",
+      "label": "Navigation Bar",
+      "count": 38,
+      "file": "navbar.json",
+      "size_kb": 106.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/navbar.json"
+    },
+    {
+      "key": "hero",
+      "label": "Hero Section",
+      "count": 55,
+      "file": "hero.json",
+      "size_kb": 157.5,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/hero.json"
+    },
+    {
+      "key": "banner",
+      "label": "Banner",
+      "count": 33,
+      "file": "banner.json",
+      "size_kb": 91.8,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/banner.json"
+    },
+    {
+      "key": "carousel",
+      "label": "Carousel / Slider",
+      "count": 5,
+      "file": "carousel.json",
+      "size_kb": 17.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/carousel.json"
+    },
+    {
+      "key": "features",
+      "label": "Features / Benefits",
+      "count": 5,
+      "file": "features.json",
+      "size_kb": 19.1,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/features.json"
+    },
+    {
+      "key": "services",
+      "label": "Services Block",
+      "count": 5,
+      "file": "services.json",
+      "size_kb": 20.7,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/services.json"
+    },
+    {
+      "key": "about",
+      "label": "About Block",
+      "count": 5,
+      "file": "about.json",
+      "size_kb": 17.4,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/about.json"
+    },
+    {
+      "key": "post-grid",
+      "label": "Post Grid / Blog List",
+      "count": 10,
+      "file": "post-grid.json",
+      "size_kb": 53.3,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/post-grid.json"
+    },
+    {
+      "key": "post-cards",
+      "label": "Post Cards",
+      "count": 5,
+      "file": "post-cards.json",
+      "size_kb": 12.2,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/post-cards.json"
+    },
+    {
+      "key": "post-details",
+      "label": "Post Details",
+      "count": 5,
+      "file": "post-details.json",
+      "size_kb": 15.6,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/post-details.json"
+    },
+    {
+      "key": "product-grid",
+      "label": "Product Grid",
+      "count": 5,
+      "file": "product-grid.json",
+      "size_kb": 26.3,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/product-grid.json"
+    },
+    {
+      "key": "product-cards",
+      "label": "Product Cards",
+      "count": 5,
+      "file": "product-cards.json",
+      "size_kb": 16.8,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/product-cards.json"
+    },
+    {
+      "key": "product-details",
+      "label": "Product Details",
+      "count": 5,
+      "file": "product-details.json",
+      "size_kb": 25.5,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/product-details.json"
+    },
+    {
+      "key": "shopping-cart",
+      "label": "Shopping Cart",
+      "count": 5,
+      "file": "shopping-cart.json",
+      "size_kb": 28.7,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/shopping-cart.json"
+    },
+    {
+      "key": "checkout",
+      "label": "Checkout Form",
+      "count": 5,
+      "file": "checkout.json",
+      "size_kb": 24.1,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/checkout.json"
+    },
+    {
+      "key": "portfolio-grid",
+      "label": "Portfolio Grid",
+      "count": 5,
+      "file": "portfolio-grid.json",
+      "size_kb": 22.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/portfolio-grid.json"
+    },
+    {
+      "key": "portfolio-cards",
+      "label": "Portfolio Cards",
+      "count": 5,
+      "file": "portfolio-cards.json",
+      "size_kb": 15.4,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/portfolio-cards.json"
+    },
+    {
+      "key": "gallery",
+      "label": "Gallery",
+      "count": 5,
+      "file": "gallery.json",
+      "size_kb": 17.2,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/gallery.json"
+    },
+    {
+      "key": "testimonials",
+      "label": "Testimonials / Reviews",
+      "count": 5,
+      "file": "testimonials.json",
+      "size_kb": 20.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/testimonials.json"
+    },
+    {
+      "key": "pricing",
+      "label": "Pricing Tables",
+      "count": 5,
+      "file": "pricing.json",
+      "size_kb": 27.2,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/pricing.json"
+    },
+    {
+      "key": "team",
+      "label": "Team Section",
+      "count": 5,
+      "file": "team.json",
+      "size_kb": 23.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/team.json"
+    },
+    {
+      "key": "clients",
+      "label": "Client / Partner Logos",
+      "count": 5,
+      "file": "clients.json",
+      "size_kb": 18.6,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/clients.json"
+    },
+    {
+      "key": "faq",
+      "label": "FAQ / Accordion",
+      "count": 5,
+      "file": "faq.json",
+      "size_kb": 19.8,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/faq.json"
+    },
+    {
+      "key": "cta",
+      "label": "Call to Action (CTA)",
+      "count": 5,
+      "file": "cta.json",
+      "size_kb": 11.5,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/cta.json"
+    },
+    {
+      "key": "contact",
+      "label": "Contact Form",
+      "count": 5,
+      "file": "contact.json",
+      "size_kb": 20.1,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/contact.json"
+    },
+    {
+      "key": "login",
+      "label": "Login / Signup Form",
+      "count": 5,
+      "file": "login.json",
+      "size_kb": 20.1,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/login.json"
+    },
+    {
+      "key": "newsletter",
+      "label": "Newsletter Subscription",
+      "count": 5,
+      "file": "newsletter.json",
+      "size_kb": 13.6,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/newsletter.json"
+    },
+    {
+      "key": "search",
+      "label": "Search Bar",
+      "count": 5,
+      "file": "search.json",
+      "size_kb": 12.3,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/search.json"
+    },
+    {
+      "key": "sidebar",
+      "label": "Sidebar",
+      "count": 5,
+      "file": "sidebar.json",
+      "size_kb": 15.9,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/sidebar.json"
+    },
+    {
+      "key": "footer",
+      "label": "Footer",
+      "count": 5,
+      "file": "footer.json",
+      "size_kb": 16.3,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/shahfarooq255/bgback-Web-Builder-Template@main/templates/footer.json"
+    }
+  ]
+}
