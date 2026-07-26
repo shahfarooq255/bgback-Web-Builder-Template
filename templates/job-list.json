@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "category": "job-list",
+    "label": "Job Listings Section",
+    "count": 1,
+    "updated": "2026-07-26"
+  },
+  "templates": [
+    {
+      "id": "jl-1",
+      "name": "Modern Job Board",
+      "html": "\n<style>\n.jl1{padding:100px 20px;background:#f8fafc;font-family:'Inter',sans-serif}\n.jl1-header{text-align:center;margin-bottom:60px}\n.jl1-header h2{font-size:clamp(30px,4vw,44px);font-weight:800;color:#0f172a;margin:0 0 15px}\n.jl1-header p{font-size:17px;color:#64748b;margin:0}\n.jl1-list{max-width:900px;margin:0 auto;display:flex;flex-direction:column;gap:16px}\n.jl1-item{background:#fff;border:1px solid #e2e8f0;border-radius:16px;padding:28px 30px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px;transition:all .3s;cursor:pointer}\n.jl1-item:hover{border-color:#6366f1;box-shadow:0 8px 30px rgba(99,102,241,.1);transform:translateX(5px)}\n.jl1-info h3{margin:0 0 10px;font-size:18px;font-weight:700;color:#0f172a}\n.jl1-tags{display:flex;flex-wrap:wrap;gap:8px}\n.jl1-tag{padding:4px 12px;border-radius:50px;font-size:12px;font-weight:600;background:#f1f5f9;color:#475569}\n.jl1-tag.full{background:#dcfce7;color:#16a34a}\n.jl1-tag.remote{background:#ede9fe;color:#7c3aed}\n.jl1-apply{padding:10px 24px;background:#0f172a;color:#fff;border:none;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;white-space:nowrap;transition:background .3s}\n.jl1-apply:hover{background:#6366f1}\n</style>\n<section class=\"jl1\">\n  <div class=\"jl1-header\"><h2>Open Positions</h2><p>Join our team of passionate people doing their best work</p></div>\n  <div class=\"jl1-list\">\n    <div class=\"jl1-item\"><div class=\"jl1-info\"><h3>Senior Frontend Engineer</h3><div class=\"jl1-tags\"><span class=\"jl1-tag full\">Full-Time</span><span class=\"jl1-tag remote\">Remote</span><span class=\"jl1-tag\">React</span><span class=\"jl1-tag\">$120-160K</span></div></div><button class=\"jl1-apply\">Apply Now</button></div>\n    <div class=\"jl1-item\"><div class=\"jl1-info\"><h3>Product Designer (UX/UI)</h3><div class=\"jl1-tags\"><span class=\"jl1-tag full\">Full-Time</span><span class=\"jl1-tag remote\">Remote</span><span class=\"jl1-tag\">Figma</span><span class=\"jl1-tag\">$90-120K</span></div></div><button class=\"jl1-apply\">Apply Now</button></div>\n    <div class=\"jl1-item\"><div class=\"jl1-info\"><h3>DevOps / Cloud Engineer</h3><div class=\"jl1-tags\"><span class=\"jl1-tag full\">Full-Time</span><span class=\"jl1-tag remote\">Hybrid</span><span class=\"jl1-tag\">AWS</span><span class=\"jl1-tag\">$130-170K</span></div></div><button class=\"jl1-apply\">Apply Now</button></div>\n    <div class=\"jl1-item\"><div class=\"jl1-info\"><h3>Content & Growth Marketer</h3><div class=\"jl1-tags\"><span class=\"jl1-tag full\">Full-Time</span><span class=\"jl1-tag remote\">Remote</span><span class=\"jl1-tag\">SEO</span><span class=\"jl1-tag\">$70-90K</span></div></div><button class=\"jl1-apply\">Apply Now</button></div>\n  </div>\n</section>"
+    }
+  ]
+}

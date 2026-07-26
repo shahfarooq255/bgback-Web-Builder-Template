@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "category": "awards",
+    "label": "Awards & Certifications Section",
+    "count": 1,
+    "updated": "2026-07-26"
+  },
+  "templates": [
+    {
+      "id": "aw-1",
+      "name": "Trophy Awards Grid",
+      "html": "\n<style>\n.aw1{padding:100px 20px;background:linear-gradient(135deg,#fffbeb,#fef3c7);font-family:'Inter',sans-serif}\n.aw1 h2{text-align:center;font-size:clamp(30px,4vw,44px);font-weight:800;color:#78350f;margin:0 0 15px}\n.aw1 p{text-align:center;color:#92400e;font-size:16px;margin:0 0 60px}\n.aw1-grid{max-width:1000px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:30px}\n.aw1-card{background:#fff;border-radius:20px;padding:35px 20px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,.06);border:2px solid transparent;transition:all .3s}\n.aw1-card:hover{border-color:#f59e0b;transform:translateY(-5px);box-shadow:0 12px 30px rgba(245,158,11,.15)}\n.aw1-icon{font-size:48px;margin-bottom:20px}\n.aw1-name{font-size:16px;font-weight:700;color:#111;margin:0 0 8px}\n.aw1-year{font-size:13px;color:#f59e0b;font-weight:600}\n.aw1-org{font-size:13px;color:#888;margin-top:5px}\n</style>\n<section class=\"aw1\">\n  <h2>Recognition & Awards</h2>\n  <p>Proud to be recognized by industry leaders worldwide</p>\n  <div class=\"aw1-grid\">\n    <div class=\"aw1-card\"><div class=\"aw1-icon\">🏆</div><div class=\"aw1-name\">Best SaaS Product</div><div class=\"aw1-year\">2024</div><div class=\"aw1-org\">TechCrunch Awards</div></div>\n    <div class=\"aw1-card\"><div class=\"aw1-icon\">🥇</div><div class=\"aw1-name\">Innovation of the Year</div><div class=\"aw1-year\">2023</div><div class=\"aw1-org\">Forbes Technology</div></div>\n    <div class=\"aw1-card\"><div class=\"aw1-icon\">⭐</div><div class=\"aw1-name\">5-Star Excellence</div><div class=\"aw1-year\">2023</div><div class=\"aw1-org\">G2 Crowd</div></div>\n    <div class=\"aw1-card\"><div class=\"aw1-icon\">🎖️</div><div class=\"aw1-name\">Top 50 Startups</div><div class=\"aw1-year\">2022</div><div class=\"aw1-org\">Gartner Inc.</div></div>\n  </div>\n</section>"
+    }
+  ]
+}

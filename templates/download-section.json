@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "category": "download-section",
+    "label": "Downloads & Resources Section",
+    "count": 1,
+    "updated": "2026-07-26"
+  },
+  "templates": [
+    {
+      "id": "ds-1",
+      "name": "Resource Download Grid",
+      "html": "\n<style>\n.ds1{padding:100px 20px;background:#fff;font-family:'Inter',sans-serif}\n.ds1-header{text-align:center;max-width:600px;margin:0 auto 60px}\n.ds1-header h2{font-size:clamp(30px,4vw,44px);font-weight:800;color:#111;margin:0 0 15px}\n.ds1-header p{color:#666;font-size:16px;margin:0}\n.ds1-grid{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:25px}\n.ds1-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:16px;padding:30px;display:flex;flex-direction:column;gap:20px;transition:all .3s}\n.ds1-card:hover{border-color:#6366f1;box-shadow:0 8px 25px rgba(99,102,241,.1);transform:translateY(-3px)}\n.ds1-icon{width:56px;height:56px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:26px}\n.ds1-icon.pdf{background:#fee2e2}.ds1-icon.zip{background:#fef3c7}.ds1-icon.doc{background:#dbeafe}.ds1-icon.xls{background:#dcfce7}\n.ds1-title{font-size:17px;font-weight:700;color:#111;margin:0 0 6px}\n.ds1-meta{font-size:13px;color:#888;margin:0}\n.ds1-btn{margin-top:auto;display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#0f172a;color:#fff;border-radius:10px;font-size:13px;font-weight:600;text-decoration:none;transition:background .3s;width:fit-content}\n.ds1-btn:hover{background:#6366f1}\n</style>\n<section class=\"ds1\">\n  <div class=\"ds1-header\"><h2>Downloads & Resources</h2><p>Access our free resources, templates, and guides to supercharge your workflow</p></div>\n  <div class=\"ds1-grid\">\n    <div class=\"ds1-card\"><div class=\"ds1-icon pdf\">📄</div><div><h3 class=\"ds1-title\">2024 Industry Report</h3><p class=\"ds1-meta\">PDF · 4.2 MB · 48 Pages</p></div><a href=\"#\" class=\"ds1-btn\">⬇ Download</a></div>\n    <div class=\"ds1-card\"><div class=\"ds1-icon zip\">📦</div><div><h3 class=\"ds1-title\">UI Kit — Figma Templates</h3><p class=\"ds1-meta\">ZIP · 32 MB · 200+ Components</p></div><a href=\"#\" class=\"ds1-btn\">⬇ Download</a></div>\n    <div class=\"ds1-card\"><div class=\"ds1-icon doc\">📝</div><div><h3 class=\"ds1-title\">Marketing Playbook</h3><p class=\"ds1-meta\">DOC · 1.8 MB · 64 Pages</p></div><a href=\"#\" class=\"ds1-btn\">⬇ Download</a></div>\n    <div class=\"ds1-card\"><div class=\"ds1-icon xls\">📊</div><div><h3 class=\"ds1-title\">ROI Calculator Template</h3><p class=\"ds1-meta\">XLSX · 0.5 MB · 12 Sheets</p></div><a href=\"#\" class=\"ds1-btn\">⬇ Download</a></div>\n  </div>\n</section>"
+    }
+  ]
+}

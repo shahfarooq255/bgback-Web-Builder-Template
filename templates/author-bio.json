@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "category": "author-bio",
+    "label": "Author Bio Section",
+    "count": 1,
+    "updated": "2026-07-26"
+  },
+  "templates": [
+    {
+      "id": "ab-1",
+      "name": "Elegant Author Card",
+      "html": "\n<style>\n.ab1{padding:60px 20px;background:#f9fafb;font-family:'Inter',sans-serif}\n.ab1-card{max-width:700px;margin:0 auto;background:#fff;border-radius:20px;padding:40px;display:flex;gap:30px;align-items:flex-start;box-shadow:0 4px 20px rgba(0,0,0,.06);border:1px solid #e5e7eb}\n.ab1-avatar{width:100px;height:100px;border-radius:50%;object-fit:cover;flex-shrink:0;border:3px solid #e5e7eb}\n.ab1-info{flex:1}\n.ab1-label{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:2px;color:#6366f1;margin-bottom:8px}\n.ab1-name{font-size:22px;font-weight:800;color:#111;margin:0 0 5px}\n.ab1-role{font-size:14px;color:#888;margin:0 0 15px}\n.ab1-bio{font-size:15px;color:#555;line-height:1.7;margin:0 0 20px}\n.ab1-social{display:flex;gap:10px}\n.ab1-social a{width:36px;height:36px;background:#f3f4f6;border-radius:8px;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:16px;transition:background .3s;color:#333}\n.ab1-social a:hover{background:#6366f1;color:#fff}\n@media(max-width:600px){.ab1-card{flex-direction:column}.ab1-avatar{width:80px;height:80px}}\n</style>\n<section class=\"ab1\">\n  <div class=\"ab1-card\">\n    <img class=\"ab1-avatar\" src=\"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&auto=format&fit=crop\" alt=\"Author\">\n    <div class=\"ab1-info\">\n      <div class=\"ab1-label\">About the Author</div>\n      <h3 class=\"ab1-name\">James Harrison</h3>\n      <p class=\"ab1-role\">Senior Product Designer & UX Strategist</p>\n      <p class=\"ab1-bio\">James is a seasoned designer with over 12 years of experience helping startups and enterprises craft intuitive digital experiences. He writes about design systems, product thinking, and the future of human-computer interaction.</p>\n      <div class=\"ab1-social\">\n        <a href=\"#\" title=\"Twitter\">🐦</a>\n        <a href=\"#\" title=\"LinkedIn\">💼</a>\n        <a href=\"#\" title=\"Website\">🌐</a>\n      </div>\n    </div>\n  </div>\n</section>"
+    }
+  ]
+}

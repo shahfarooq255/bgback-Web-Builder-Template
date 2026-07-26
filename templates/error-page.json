@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "category": "error-page",
+    "label": "404 & Error Pages",
+    "count": 1,
+    "updated": "2026-07-26"
+  },
+  "templates": [
+    {
+      "id": "ep-1",
+      "name": "Dark 404 Page",
+      "html": "\n<style>\n.ep1{min-height:80vh;background:#09090b;font-family:'Inter',sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;padding:40px 20px}\n.ep1-content{max-width:600px}\n.ep1-num{font-size:clamp(120px,20vw,200px);font-weight:900;line-height:1;background:linear-gradient(135deg,#6366f1,#a78bfa,#ec4899);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin:0}\n.ep1-sub{font-size:clamp(20px,3vw,32px);font-weight:700;color:#fff;margin:0 0 20px}\n.ep1 p{color:#888;font-size:16px;line-height:1.7;margin:0 0 40px;max-width:400px;margin-left:auto;margin-right:auto}\n.ep1-actions{display:flex;gap:15px;justify-content:center;flex-wrap:wrap}\n.ep1-btn-primary{padding:14px 30px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;border-radius:12px;font-size:15px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block;transition:opacity .3s}\n.ep1-btn-primary:hover{opacity:.9}\n.ep1-btn-secondary{padding:14px 30px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);color:#fff;border-radius:12px;font-size:15px;font-weight:600;text-decoration:none;display:inline-block;transition:background .3s}\n.ep1-btn-secondary:hover{background:rgba(255,255,255,.1)}\n</style>\n<section class=\"ep1\">\n  <div class=\"ep1-content\">\n    <div class=\"ep1-num\">404</div>\n    <h2 class=\"ep1-sub\">Page Not Found</h2>\n    <p>Oops! The page you're looking for doesn't exist. It might have been moved, deleted, or never existed.</p>\n    <div class=\"ep1-actions\">\n      <a href=\"/\" class=\"ep1-btn-primary\">Go Back Home</a>\n      <a href=\"/contact\" class=\"ep1-btn-secondary\">Contact Support</a>\n    </div>\n  </div>\n</section>"
+    }
+  ]
+}
